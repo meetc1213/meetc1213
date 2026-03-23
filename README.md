@@ -50,7 +50,7 @@ Built for the problems where the answer isn't obvious yet.
 
 ## 📌 Featured Projects
 
-### 🎬 Netflix & IMDb Content Intelligence
+### 🎬 Film Market Analytics
 `Python` `SQL` `Power BI` `Scikit-learn` `Pandas`
 
 Analyzed 100k+ records spanning genres, directors, actors, and countries to surface actionable
