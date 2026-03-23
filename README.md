@@ -85,18 +85,3 @@ correlate most strongly with audience approval.
 🎓 **HBSc Physics** — University of Toronto | GPA 3.45 / 4.00 | 2021–2025
 
 📜 **Machine Learning Specialization** — Andrew Ng, DeepLearning.AI | Dec 2025
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetc1213&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetc1213&layout=compact&theme=default&hide_border=true" width="40%"/>
-</p>
-
----
-
-<p align="center">
-  <i>Bilingual in English and French · Built for the problems where the answer isn't obvious yet.</i>
-</p>
